@@ -28,6 +28,25 @@ Once bread is toasted, spread mayo on bread.
 
 Put tomatoes on bread. then salt tomatoes. 
 
+----
+
+## None pizza with left beef
+
+![photo of none pizza with left beef](images/recipe-none_pizza_with_left_beef.jpg)
+
+ Pizza = none. Beef = left
+
+### Ingredients
+
+- Pizza dough
+- cooked beef
+
+### Instructions
+
+Cook pizza dough. Do not add sauce. 
+
+Add beef to left side of cooked pizza dough. Beef is only for the left side, do not put anywhere else. 
+
 
 ----
 
@@ -109,6 +128,7 @@ Cook rice according to its instructions. You may need to wash the rice one or mo
 Slice fillings into narrow strips
 
 etc
+
 ----
 
 ## Healing Potion
