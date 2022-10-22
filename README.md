@@ -8,15 +8,15 @@ This is where I collect recipes.
 
 It's cheap, it's filling, it's easy. 
 
-### ingredients
+### Ingredients
 
-- bread
-- tomatoes
-- salt
-- mayonaise
-- spices as you see fit
+- Bread
+- Tomatoes
+- Salt
+- Mayonaise
+- Spices as you see fit
 
-### instructions
+### Instructions
 
 Toast the bread.
 
