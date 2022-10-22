@@ -6,6 +6,8 @@ This is where I collect recipes.
 
 ## Tomato sandwich
 
+![photo of tomato sandwich](images/recipe-tomato_sandwich.jpg)
+
 It's cheap, it's filling, it's easy. 
 
 ### Ingredients
@@ -30,6 +32,8 @@ Put tomatoes on bread. then salt tomatoes.
 ----
 
 ## Nachoes
+
+![photo of nachos](images/recipe-nachos.jpg)
 
  Cheese + chips = tasty
 
