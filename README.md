@@ -86,6 +86,7 @@ Serve with salsa.
 ### Ingredients
 
 - Curry mix
+- meat of choice
 - Peppers
 - Onions
 - Coconut milk
@@ -94,13 +95,21 @@ Serve with salsa.
 
 ### Instructions
 
-Put oil in a saucepan. Put onions in and cook for 1 minute. 
+Put oil in a saucepan. Cook meat until it is cooked all the way through but not browned. 
+
+Take meat out and store on a plate. 
+
+Put onions in and cook for 1 minute. 
 
 Then add spices and curry mix. Cook for another minute. 
 
 Add coconut milk and mix until all ingredients are thoroughly mixed. 
 
 Then add peppers and cook until cooked through. 
+
+Once peppers are cooked, add meat. Cook for another 2 minutes. 
+
+Let cool and serve on top of rice. 
 
 ---
 
