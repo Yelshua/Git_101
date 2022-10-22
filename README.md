@@ -55,3 +55,31 @@ Put Daiya cheese on top.
 Cook in microwave for 2 minutes. 
 
 Serve with salsa.
+
+----
+
+## Curry
+
+![photo of curry](images/recipe-curry.jpg)
+
+ Veggies and sauce cooked deliciously. 
+
+### Ingredients
+
+- Curry mix
+- Peppers
+- Onions
+- Coconut milk
+- Spices
+- Oil
+
+### Instructions
+
+Put oil in a saucepan. Put onions in and cook for 1 minute. 
+
+Then add spices and curry mix. Cook for another minute. 
+
+Add coconut milk and mix until all ingredients are thoroughly mixed. 
+
+Then add peppers and cook until cooked through. 
+
