@@ -26,3 +26,28 @@ Once bread is toasted, spread mayo on bread.
 
 Put tomatoes on bread. then salt tomatoes. 
 
+
+----
+
+## Nachoes
+
+ Cheese + chips = tasty
+
+### Ingredients
+
+- Tortilla chips
+- Daiya cheese
+- chopped veggies
+- cooked ground meat
+
+### Instructions
+
+Put chips on a plate. 
+
+Put chopped veggies and ground meat on top of chips. 
+
+Put Daiya cheese on top. 
+
+Cook in microwave for 2 minutes. 
+
+Serve with salsa.
