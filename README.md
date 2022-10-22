@@ -83,3 +83,21 @@ Add coconut milk and mix until all ingredients are thoroughly mixed.
 
 Then add peppers and cook until cooked through. 
 
+----
+
+## Olives For Goats
+
+Sometimes you just want to feed Olives to Goats, right in the Olive Tree.
+
+![photo of goats in a tree, eating olives](images/recipe-olives_for_goats.jpg)
+
+ Veggies and sauce cooked deliciously. 
+
+### Ingredients
+
+- Olive Tree
+
+### Instructions
+
+Find an Olive Tree with ripe Olives and then just UNLEASH THE GOATS FROM YOUR HERD UPON THE TREES!!! The Goats are great at climbing! Hooray for Goats!
+
