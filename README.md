@@ -83,6 +83,32 @@ Add coconut milk and mix until all ingredients are thoroughly mixed.
 
 Then add peppers and cook until cooked through. 
 
+---
+
+## Sushi
+
+![photo of sushi](images/sushi.jpg)
+
+### Ingredients
+
+- Calrose or other sticky rice
+- Sushi seasoning powder mix powder
+	- Or combine rice vinegar, salt, and sugar
+- Seaweed wrap (nori)
+- Wasabi or horseraddish
+- Fillings of choice, e.g.
+	- Vegetables: avocado, cucumber, carrots
+	- Meat: tuna, crab, chicken
+	- Extras: green onions, cream cheese
+	- Toppings: sriracha, unagi sauce, mayonnaise, sesame seeds
+
+### Instructions
+
+Cook rice according to its instructions. You may need to wash the rice one or more times (until the water runs clear).
+
+Slice fillings into narrow strips
+
+etc
 ----
 
 ## Healing Potion
