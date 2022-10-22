@@ -122,6 +122,8 @@ Then add peppers and cook until cooked through.
 	- Extras: green onions, cream cheese
 	- Toppings: sriracha, unagi sauce, mayonnaise, sesame seeds
 
+Note that your fish need not be raw!
+
 #### Example sushi combinations:
 
 - **California roll**: inside-out roll with crab salad, and avocado, and cucumber.
@@ -133,9 +135,9 @@ Then add peppers and cook until cooked through.
 - Very wide bowl
 - Flat spoon or paddle
 - Bamboo sushi roller or plastic wrap
-- Very sharp knife
+- Very sharp knife (non-serrated)
 
-Avoid using metal bowls and utensils, as the vinegar in the sushi seasoning might react to it.
+Avoid using metal bowls and utensils, as the vinegar in the sushi seasoning might react to them.
 
 ### Instructions
 
