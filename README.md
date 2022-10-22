@@ -83,3 +83,30 @@ Add coconut milk and mix until all ingredients are thoroughly mixed.
 
 Then add peppers and cook until cooked through. 
 
+----
+
+## Healing Potion
+
+![photo of curry](images/recipe-healing_potion.jpg)
+
+For when your health drops down. 
+
+### Ingredients
+
+- potion base
+- food coloring
+- glass jar to hold potion in
+- healing ingredients
+
+### Instructions
+
+Put potion base in a pot. Heat on medium heat. 
+
+Add desired healing ingredients. 
+
+Blend in pot. 
+
+Add food coloring. 
+
+Wait until mixture is cool. Then add in glass jar. Cork and save for when you're in the middle of battle. 
+
