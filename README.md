@@ -118,3 +118,31 @@ Spread one cup of rice onto each nori square, leaving approximately 1cm of non-r
 Spread the wasabi or horseradish across the roll from side to side.
 
 etc
+
+----
+
+## Healing Potion
+
+![photo of healing potion](images/recipe-healing_potion.jpg)
+
+For when your health drops down. 
+
+### Ingredients
+
+- potion base
+- food coloring
+- glass jar to hold potion in
+- healing ingredients
+
+### Instructions
+
+Put potion base in a pot. Heat on medium heat. 
+
+Add desired healing ingredients. 
+
+Blend in pot. 
+
+Add food coloring. 
+
+Wait until mixture is cool. Then add in glass jar. Cork and save for when you're in the middle of battle. 
+
