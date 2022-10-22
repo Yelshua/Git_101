@@ -92,32 +92,53 @@ Then add peppers and cook until cooked through.
 ### Ingredients
 
 - Calrose or other sticky rice
-- Sushi seasoning powder mix powder
+- Sushi seasoning powder
 	- Or combine rice vinegar, salt, and sugar
 - Seaweed wrap (nori)
 - Wasabi or horseraddish
-	- If using powder, mix with water in advance to form a paste.
+	- If using powder, mix with water in advance to form a paste
 - Fillings of choice, e.g.
 	- Vegetables: avocado, cucumber, carrots
 	- Meat: tuna, crab, chicken
 	- Extras: green onions, cream cheese
 	- Toppings: sriracha, unagi sauce, mayonnaise, sesame seeds
 
+#### Example sushi combinations:
+
+- **California roll**: inside-out roll with crab salad, and avocado, and cucumber.
+- **Philedelphia roll**: smoked or raw salmon with cream cheese.
+- **Caterpillar roll**: an inside-out roll with slices of avocado pressed on top.
+
+### Kitchen supplies
+
+- Very wide bowl
+- Flat spoon or paddle
+- Bamboo sushi roller or plastic wrap
+- Very sharp knife
+
+Avoid using metal bowls and utensils, as the vinegar in the sushi seasoning might react to it.
+
 ### Instructions
 
-Cook rice according to its instructions. You may need to wash the rice one or more times (until the water runs clear).
+Cook the rice according to its instructions. You may need to wash the rice one or more times (until the water runs clear).
 
 Meanwhile, slice fillings into narrow strips. The pieces should be no longer than the nori is wide.
 
-When the rice is done, spread it into a wide container. Sprinkle the sushi seasoning on top and mix gently with a paddle. (Don't crush the rice!)
+When the rice is done, spread it out into a wide container. Sprinkle the sushi seasoning on top and mix gently with a paddle. (Don't crush the rice!)
+
+Place nori squares atop a bamboo sushi roller or piece of plastic wrap, shiny side down.
 
 TIP: wet your hands before handling sushi rice.
 
 Spread one cup of rice onto each nori square, leaving approximately 1cm of non-riced nori on the top.
 
-Spread the wasabi or horseradish across the roll from side to side.
+Spread the wasabi or horseradish paste across the roll from side to side in the middle of the roll. Place several strips of ingredients in a line in the same place.
 
-etc
+Use the sushi roller or plastic wrap to curl the roll, starting from the bottom. Squeeze the ingredients tightly as you go or the roll might fall apart when cut.
+
+Wet a very sharp knife and cut the roll into 1/2 cm slices. Wipe down and re-wet the knife occasionally for best results. Make sure you cut all the way through.
+
+Apply any desired toppings and serve with soy sauce or wasabi paste. Eat at room temperature.
 
 ----
 
