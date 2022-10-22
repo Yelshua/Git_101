@@ -87,7 +87,7 @@ Then add peppers and cook until cooked through.
 
 ## Healing Potion
 
-![photo of curry](images/recipe-healing_potion.jpg)
+![photo of healing potion](images/recipe-healing_potion.jpg)
 
 For when your health drops down. 
 
