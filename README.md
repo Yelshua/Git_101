@@ -96,6 +96,7 @@ Then add peppers and cook until cooked through.
 	- Or combine rice vinegar, salt, and sugar
 - Seaweed wrap (nori)
 - Wasabi or horseraddish
+	- If using powder, mix with water in advance to form a paste.
 - Fillings of choice, e.g.
 	- Vegetables: avocado, cucumber, carrots
 	- Meat: tuna, crab, chicken
@@ -106,7 +107,14 @@ Then add peppers and cook until cooked through.
 
 Cook rice according to its instructions. You may need to wash the rice one or more times (until the water runs clear).
 
-Slice fillings into narrow strips
+Meanwhile, slice fillings into narrow strips. The pieces should be no longer than the nori is wide.
+
+When the rice is done, spread it into a wide container. Sprinkle the sushi seasoning on top and mix gently with a paddle. (Don't crush the rice!)
+
+TIP: wet your hands before handling sushi rice.
+
+Spread one cup of rice onto each nori square, leaving approximately 1cm of non-riced nori on the top.
+
+Spread the wasabi or horseradish across the roll from side to side.
 
 etc
-
